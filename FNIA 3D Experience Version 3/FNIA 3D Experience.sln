@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNIA 3D Experience", "Assembly-CSharp.csproj", "{BDE9336E-C1A8-F5CD-0E6D-39F076AC739D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNIA 3D Experience", "Assembly-CSharp-Editor.csproj", "{31FEFAA6-88C8-2CF7-6ABC-5A114BFD0677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE9336E-C1A8-F5CD-0E6D-39F076AC739D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE9336E-C1A8-F5CD-0E6D-39F076AC739D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE9336E-C1A8-F5CD-0E6D-39F076AC739D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE9336E-C1A8-F5CD-0E6D-39F076AC739D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FEFAA6-88C8-2CF7-6ABC-5A114BFD0677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FEFAA6-88C8-2CF7-6ABC-5A114BFD0677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FEFAA6-88C8-2CF7-6ABC-5A114BFD0677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FEFAA6-88C8-2CF7-6ABC-5A114BFD0677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

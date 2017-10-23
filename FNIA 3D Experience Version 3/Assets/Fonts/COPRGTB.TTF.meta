@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7ab1762c74e1b914ba1b1003837ad126
+timeCreated: 1505163106
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Copperplate Gothic Bold
+  fontNames:
+  - Copperplate Gothic Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
